@@ -6,9 +6,9 @@ Hence, this led to our idea of making this revolutionary product to prevent such
 
 *Technology Used*
 
-Python
-Image processing
-Machine learning
+Python,
+Image processing,
+Machine learning,
 Deep learning 
 
 *Working*
