@@ -9,7 +9,7 @@ Hence, this led to our idea of making this revolutionary product to prevent such
 Python,
 Image processing,
 Machine learning,
-Deep learning 
+Deep learning. 
 
 *Working*
 
